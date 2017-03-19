@@ -4,8 +4,8 @@
 
  <?php the_posts_pagination( array(
     'mid_size' => 2,
-    'prev_text' => __( 'Back', 'prsotheme' ),
-    'next_text' => __( 'Onward', 'prsotheme' ),
+    'prev_text' => __( 'Back', 'My_WordPress_Theme' ),
+    'next_text' => __( 'Onward', 'My_WordPress_Theme' ),
 ) ); ?>
 
  <?php get_footer(); ?>
