@@ -66,7 +66,7 @@
 
 	<!-- page pagination -->
 	<?php wp_link_pages( array(
-	'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'prsotheme') . '</span>',
+	'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'My_WordPress_Theme') . '</span>',
 	'after'       => '</div>',
 	'link_before' => '<span>',
 	'link_after'  => '</span>',
